@@ -38,7 +38,7 @@ end
 %    for x=1:NumImages
 %      imshow(ImSeq(:,:,x),[]);
 %    end
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%hello%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 % imshow(bk,[]);
 % for i=1:VIDEO_HEIGHT
